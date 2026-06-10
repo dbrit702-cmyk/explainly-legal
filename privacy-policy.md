@@ -1,7 +1,3 @@
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Privacy Policy · Explainly</title>
 <meta name="description" content="Privacy Policy for Explainly — the AI-powered homework explanation app from Britten Labs.">
 <meta name="theme-color" content="#08080f">
